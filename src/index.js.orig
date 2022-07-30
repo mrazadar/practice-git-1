@@ -1,0 +1,9 @@
+console.log('adding change for conflict');
+<<<<<<< HEAD
+function square(x){
+  return x ** 2; 
+=======
+function toStringNum(n){
+  return String(n);
+>>>>>>> feature-2
+}
