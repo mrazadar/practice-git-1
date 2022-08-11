@@ -2,7 +2,7 @@ console.log('adding change for conflict');
 function square(x){
   return x ** 2; 
 }
-//first, second, third, fourth, fifth, 
+//first, second, third, fourth, fifth, sixth
 
 //git replays my commits on top of new base head..
 //you have to do --force push becasue the head to your remote branch 
