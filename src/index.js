@@ -4,4 +4,4 @@ function square(x){
 }
 //first, second, third, fourth
 
-//base-feature first, second
+//base-feature first, second, third
