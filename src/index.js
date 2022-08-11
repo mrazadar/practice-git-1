@@ -3,8 +3,6 @@ function square(x){
   return x ** 2; 
 }
 
-//CA
-
-//CB
-
+//CA CB CC
 //CAA CBB
+
