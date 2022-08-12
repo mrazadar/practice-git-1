@@ -3,4 +3,4 @@ function square(x){
   return x ** 2; 
 }
 
-// one, two
+// one, two, three
